@@ -1,3 +1,5 @@
+#Palindrome number
+
 n=int(input("Enter number:"))
 temp=n
 rev=0
