@@ -1,3 +1,4 @@
+# reverse number
 
 n=int(input("Enter number: "))
 rev=0
