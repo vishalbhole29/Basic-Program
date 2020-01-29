@@ -1,4 +1,4 @@
-# Program to find sum of all items in a Dictionary
+# Program to find sum of all items in a Dictionary.
 
 dict = {'a': 100, 'b': 200, 'c': 300}
 
