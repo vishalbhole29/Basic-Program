@@ -1,0 +1,10 @@
+# Program to find sum of all items in a Dictionary
+
+dict = {'a': 100, 'b': 200, 'c': 300}
+
+def returnSum(myDict):
+    sum = 0
+    for i in myDict:
+        sum = sum + dict[i]
+    return sum
+print("Sum :", returnSum(dict))
